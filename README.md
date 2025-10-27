@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Calculator App
 
 A simple calculator application built with Flutter that provides basic arithmetic operations with a classic calculator interface.
@@ -79,3 +80,6 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is created for educational purposes.
+=======
+# calculator
+>>>>>>> 1b5074c85387a3edb87bf7181bc343fc51c3e9cb
